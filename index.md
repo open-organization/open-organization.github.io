@@ -2,4 +2,4 @@
 title: index
 ---
 
-![logo](https://rawgit.com/open-organization/assets/master/img/src/logo.svg)
+![logo](https://rawgit.com/open-organization/img/open_org_logo_black.png)
