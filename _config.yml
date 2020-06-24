@@ -1,5 +1,11 @@
-theme: minima
 title: The Open Organization Project
 description: Resources for building open organizations
 
 github_username: open-organization
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
