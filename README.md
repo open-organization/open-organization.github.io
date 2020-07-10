@@ -1,2 +1,2 @@
-# [open-organization.github.io](https://open-organization.github.io)
+# [theopenorganization.org](http://theopenorganization.org)
 Repository for the Open Organization project website
