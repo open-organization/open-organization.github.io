@@ -4,18 +4,21 @@
 
 # Name of your site (displayed in the header)
 name: The Open Organization
+title: The Open Organization
 
 # Name of the author
 author: The Open Organization project
 
 # Short bio or description (displayed in the header)
 description: Resources for building open organizations
+subtitle: Resources for building open organizations
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "/images/logo-icon.png"
+logo: "/images/logo-icon.png"
 
 #Theme
 theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "mint"
 
 # Flags below are optional
 #

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: collection
 title: Open Principles
 permalink: /open-principles/
 ---
