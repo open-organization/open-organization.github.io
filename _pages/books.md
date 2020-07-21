@@ -1,51 +1,19 @@
 ---
-layout: collection
-title: Books and Resources
+layout: single
+title: The Open Organization Book Series
 permalink: /books/
 ---
 
-### Step 1) Fork Reverie to your User Repository
+# The Open Organization Book Series
 
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
+## Praesent nisl
 
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl mauris, viverra vel purus mollis, sollicitudin venenatis nisi. Sed in augue placerat neque molestie finibus at at augue. Morbi risus purus, luctus sed mattis sit amet, sollicitudin a arcu. Nunc volutpat rhoncus dapibus. In purus ante, blandit vel suscipit tempor, blandit non eros. Donec elit nulla, suscipit nec erat eu, porttitor euismod libero. Pellentesque tincidunt enim augue, in sodales leo fermentum sit amet. Nunc feugiat maximus magna, sed pellentesque arcu pharetra pretium. Phasellus nisi arcu, semper nec mattis vel, pretium vitae diam. Morbi nec odio ipsum. Aenean eu quam sed velit lobortis finibus.
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+## Nam dignissim
 
-### Step 2) Customize and view your site
+Aenean fringilla nisi id diam pellentesque, eget pharetra turpis pulvinar. Quisque tempor varius erat, ac vestibulum purus gravida quis. Nam dignissim eget leo ac imperdiet. Nunc sollicitudin vel turpis quis maximus. Nulla imperdiet, orci eget pretium egestas, libero libero placerat augue, in convallis ipsum dolor sed sapien. Pellentesque elementum lacus sed cursus scelerisque. Morbi faucibus justo id nisi tincidunt ornare. Suspendisse sit amet pretium nibh.
 
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
+## Duis quis
 
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
-
-### Step 3) Publish your first blog post
-
-Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
-
-> You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
-
-## Using Categories in Reverie
-
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
-
-For adding single category:
-
-```md
-categories: JavaScript
-```
-
-For adding multiple categories:
-
-```md
-categories: [PHP, Laravel]
-```
-
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
-
-## RSS
-
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/reverie/feed).
-
-## Sitemap
-
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
+Mauris consequat eget tellus a aliquam. Vestibulum augue turpis, molestie in ipsum sed, ullamcorper bibendum urna. Duis ultrices gravida rutrum. Duis et turpis eget lacus bibendum convallis. Duis quis odio ut est iaculis semper a ultricies lacus. Integer quis mi ac velit iaculis tincidunt. Nam bibendum pulvinar odio, viverra consequat mi condimentum vitae. Donec sem justo, mollis a ex non, porttitor vestibulum ipsum. Nullam suscipit eleifend nibh vitae iaculis. Proin vitae vestibulum orci. Nunc non elit at mauris sodales pretium ac et libero. Phasellus purus ex, auctor et sem eu, lacinia facilisis est. Sed in cursus enim. 

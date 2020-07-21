@@ -1,7 +1,7 @@
 ---
-layout: collection
-title: Open Principles
-permalink: /open-principles/
+layout: single
+title: The Open Organization Definition
+permalink: /definition/
 ---
 
 It would be cool if this page was fed [by the definition doc in github](https://github.com/open-organization/open-org-definition/blob/master/open_org_definition.md)
