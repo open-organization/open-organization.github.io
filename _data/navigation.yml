@@ -2,9 +2,9 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Open Principles"
-    url: /open-principles/
-  - title: "Books & Resources"
+  - title: "Definition"
+    url: /definition/
+  - title: "Books Series"
     url: /books/
   - title: "Get Involved"
     url: /get-involved/
