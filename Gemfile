@@ -12,3 +12,5 @@ gem "jekyll-sitemap", "~> 1.4"
 gem "jekyll-feed", "~> 0.15.0"
 gem "jekyll-seo-tag", "~> 2.6"
 gem "jekyll-paginate", "~> 1.1"
+gem "minimal-mistakes-jekyll"
+gem 'jekyll-include-cache'

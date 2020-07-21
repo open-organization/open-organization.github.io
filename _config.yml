@@ -12,9 +12,11 @@ author: The Open Organization project
 description: Resources for building open organizations
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:
+avatar: "/images/logo-icon.png"
 
-#
+#Theme
+theme: minimal-mistakes-jekyll
+
 # Flags below are optional
 #
 
@@ -83,6 +85,7 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-include-cache
 
 include: ['_pages']
 
