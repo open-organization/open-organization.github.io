@@ -4,24 +4,14 @@ title: The Open Organization Definition
 permalink: /definition/
 ---
 
-It would be cool if this page was fed [by the definition doc in github](https://github.com/open-organization/open-org-definition/blob/master/open_org_definition.md)
+## Praesent nisl
 
-# The Open Organization Definition
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl mauris, viverra vel purus mollis, sollicitudin venenatis nisi. Sed in augue placerat neque molestie finibus at at augue. Morbi risus purus, luctus sed mattis sit amet, sollicitudin a arcu. Nunc volutpat rhoncus dapibus. In purus ante, blandit vel suscipit tempor, blandit non eros. Donec elit nulla, suscipit nec erat eu, porttitor euismod libero. Pellentesque tincidunt enim augue, in sodales leo fermentum sit amet. Nunc feugiat maximus magna, sed pellentesque arcu pharetra pretium. Phasellus nisi arcu, semper nec mattis vel, pretium vitae diam. Morbi nec odio ipsum. Aenean eu quam sed velit lobortis finibus.
 
-## Preamble
+## Nam dignissim
 
-Openness is becoming increasingly central to the ways groups and teams of all sizes are working together to achieve shared goals. And today, the most forward-thinking organizations—whatever their missions—are embracing openness as a necessary orientation toward success. They've seen that openness can lead to:
+Aenean fringilla nisi id diam pellentesque, eget pharetra turpis pulvinar. Quisque tempor varius erat, ac vestibulum purus gravida quis. Nam dignissim eget leo ac imperdiet. Nunc sollicitudin vel turpis quis maximus. Nulla imperdiet, orci eget pretium egestas, libero libero placerat augue, in convallis ipsum dolor sed sapien. Pellentesque elementum lacus sed cursus scelerisque. Morbi faucibus justo id nisi tincidunt ornare. Suspendisse sit amet pretium nibh.
 
-* Greater agility, as members are more capable of working toward goals in unison and with shared vision;
-* Faster innovation, as ideas from both inside and outside the organization receive more equitable consideration and rapid experimentation, and;
-* Increased engagement, as members clearly see connections between their particular activities and an organization's overarching values, mission, and spirit.
+## Duis quis
 
-But openness is fluid. Openness is multifaceted. Openness is contested.
-
-While every organization is different—and therefore every example of an open organization is unique—we believe these five characteristics serve as the basic conditions for openness in most contexts:
-
-* Transparency
-* Inclusivity
-* Adaptability
-* Collaboration
-* Community
+Mauris consequat eget tellus a aliquam. Vestibulum augue turpis, molestie in ipsum sed, ullamcorper bibendum urna. Duis ultrices gravida rutrum. Duis et turpis eget lacus bibendum convallis. Duis quis odio ut est iaculis semper a ultricies lacus. Integer quis mi ac velit iaculis tincidunt. Nam bibendum pulvinar odio, viverra consequat mi condimentum vitae. Donec sem justo, mollis a ex non, porttitor vestibulum ipsum. Nullam suscipit eleifend nibh vitae iaculis. Proin vitae vestibulum orci. Nunc non elit at mauris sodales pretium ac et libero. Phasellus purus ex, auctor et sem eu, lacinia facilisis est. Sed in cursus enim.
