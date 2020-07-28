@@ -4,8 +4,6 @@ title: About the Open Organization project
 permalink: /about/
 ---
 
-# The Open Organization project and community
-
 ## Our Vision
 
 The Open Organization is a community-driven project dedicated to exploring how open principles change the ways we work, manage, and lead.

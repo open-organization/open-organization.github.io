@@ -4,9 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-# ﻿The Open Organization Maturity Model
-
-## About this document
+## About the Open Organization Maturity Model
 
 The Open Organization Maturity Model is a framework for helping your organization to become more transparent, inclusive, adaptable, collaborative, and communal. It outlines steps that individuals, teams, and organizations can take to critically examine their organizational practices and chart their progress toward becoming a more open organization (as outlined in [the Open Organization Definition](https://github.com/open-organization-ambassadors/open-org-definition/blob/master/open_org_definition.md)).
 
