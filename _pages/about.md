@@ -4,14 +4,49 @@ title: About the Open Organization project
 permalink: /about/
 ---
 
-## Mission and vision
+# The Open Organization project and community
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl mauris, viverra vel purus mollis, sollicitudin venenatis nisi. Sed in augue placerat neque molestie finibus at at augue. Morbi risus purus, luctus sed mattis sit amet, sollicitudin a arcu. Nunc volutpat rhoncus dapibus. In purus ante, blandit vel suscipit tempor, blandit non eros. Donec elit nulla, suscipit nec erat eu, porttitor euismod libero. Pellentesque tincidunt enim augue, in sodales leo fermentum sit amet. Nunc feugiat maximus magna, sed pellentesque arcu pharetra pretium. Phasellus nisi arcu, semper nec mattis vel, pretium vitae diam. Morbi nec odio ipsum. Aenean eu quam sed velit lobortis finibus.
+## Our Vision
 
-## Contributors
+The Open Organization is a community-driven project dedicated to exploring how open principles change the ways we work, manage, and lead.
 
-Aenean fringilla nisi id diam pellentesque, eget pharetra turpis pulvinar. Quisque tempor varius erat, ac vestibulum purus gravida quis. Nam dignissim eget leo ac imperdiet. Nunc sollicitudin vel turpis quis maximus. Nulla imperdiet, orci eget pretium egestas, libero libero placerat augue, in convallis ipsum dolor sed sapien. Pellentesque elementum lacus sed cursus scelerisque. Morbi faucibus justo id nisi tincidunt ornare. Suspendisse sit amet pretium nibh.
+Our community members study and share strategies for building organizational cultures on principles like transparency, adaptability, collaboration, inclusivity, and community.
 
-## Governance
+## Our Commitments
 
-Mauris consequat eget tellus a aliquam. Vestibulum augue turpis, molestie in ipsum sed, ullamcorper bibendum urna. Duis ultrices gravida rutrum. Duis et turpis eget lacus bibendum convallis. Duis quis odio ut est iaculis semper a ultricies lacus. Integer quis mi ac velit iaculis tincidunt. Nam bibendum pulvinar odio, viverra consequat mi condimentum vitae. Donec sem justo, mollis a ex non, porttitor vestibulum ipsum. Nullam suscipit eleifend nibh vitae iaculis. Proin vitae vestibulum orci. Nunc non elit at mauris sodales pretium ac et libero. Phasellus purus ex, auctor et sem eu, lacinia facilisis est. Sed in cursus enim.
+We're committed to:
+
+- **Learning.** We're researching open source values so we can better understand how they're influencing today's innovative organizational cultures, and we're always refining the "open organization" concept, differentiating or distinguishing it from seemingly similar approaches to management and leadership.
+- **Helping.** We're a trusted resource for anyone interested in leveraging the power of open principles to improve their organizations.
+- **Translating.** We explain community-specific vocabularies to general audiences seeking to understand the benefits of an open approach to management and leadership.
+- **Engaging.** We draw others into productive dialogues and exploratory activities that illuminate the benefits of applying open thinking to organizational contexts.
+
+## Our Methods
+
+We do all this by:
+
+- Publishing articles, books, and other resources exploring the nature of openness in contemporary organizations
+- Exhibiting and speaking at industry and community-focused events
+- Connecting with and interviewing innovative leaders, managers, and practitioners innovating in an open manner
+- Maintaining a repository of high-quality, immediately accessible, vetted resources anyone can use to implement open principles in their teams or organizations
+
+## Our Contributors
+
+The Open Organization project welcomes contributors of all kinds.
+
+Our community members have diverse backgrounds; they're people from a number of different of domains (consulting, education, non-profits, open source software development, and more) who possess varying levels of experience and technical proficiencies. They [play different roles](https://github.com/open-organization/governance/wiki/Community-Roles) in the Open Organization project. But they all:
+
+- Consider themselves champions of open organizational values and principles, as outlined in the [Open Organization Definition](https://github.com/open-organization/open-org-definition),
+- Care about the ways those values can help create better organizational experiences for everyone, and
+- Enjoy working productively with others who feel the same way.
+
+## Revision History
+
+Version 3.0  
+Updated May 2020  
+The Open Organization Ambassadors
+
+## License
+
+[Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+
