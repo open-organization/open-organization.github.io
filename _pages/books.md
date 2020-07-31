@@ -4,14 +4,26 @@ title: The Open Organization Book Series
 permalink: /books/
 ---
 
-## Praesent nisl
+ Curabitur egestas arcu ac blandit faucibus. Sed accumsan, eros et vehicula finibus, neque risus sagittis ante, vel aliquam est mauris vitae enim. Vestibulum lobortis metus sapien, vitae venenatis leo facilisis eu. Cras euismod leo viverra erat molestie bibendum. Donec eleifend at tortor sed commodo. Maecenas sed fermentum mi, eget porta libero. Curabitur velit leo, sodales quis iaculis sit amet, venenatis ac magna. Suspendisse non augue rhoncus, congue tortor vel, venenatis quam. Sed tempor est lorem, sed dapibus nunc efficitur lobortis.
+ 
+# Core volumes
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl mauris, viverra vel purus mollis, sollicitudin venenatis nisi. Sed in augue placerat neque molestie finibus at at augue. Morbi risus purus, luctus sed mattis sit amet, sollicitudin a arcu. Nunc volutpat rhoncus dapibus. In purus ante, blandit vel suscipit tempor, blandit non eros. Donec elit nulla, suscipit nec erat eu, porttitor euismod libero. Pellentesque tincidunt enim augue, in sodales leo fermentum sit amet. Nunc feugiat maximus magna, sed pellentesque arcu pharetra pretium. Phasellus nisi arcu, semper nec mattis vel, pretium vitae diam. Morbi nec odio ipsum. Aenean eu quam sed velit lobortis finibus.
+## The Open Organization Field Guide
+*The Open Organization Field Guide* is a community-produced companion to Jim Whitehurst's initial thoughts on the future of work, management, and leadership. The book collects cutting-edge ideas about the ways open source values are changing the ways we work, manage, and lead.
 
-## Nam dignissim
+## The Open Organization Leaders Manual
+*The Open Organization Leaders Manual* is a handbook for anyone attempting to harness the power of openness to lead teams that are more transparent, agile, collaborative, and mission-driven.
 
-Aenean fringilla nisi id diam pellentesque, eget pharetra turpis pulvinar. Quisque tempor varius erat, ac vestibulum purus gravida quis. Nam dignissim eget leo ac imperdiet. Nunc sollicitudin vel turpis quis maximus. Nulla imperdiet, orci eget pretium egestas, libero libero placerat augue, in convallis ipsum dolor sed sapien. Pellentesque elementum lacus sed cursus scelerisque. Morbi faucibus justo id nisi tincidunt ornare. Suspendisse sit amet pretium nibh.
+## The Open Organization Workbook
+*The Open Organization Workbook* features contributions from more than 30 managers, educators, technologists, consultants, and other experts, who offer concrete and actionable strategies for putting the principles of transparency, inclusivity, adaptability, collaboration, and community into practice.
 
-## Duis quis
+# Guides
 
-Mauris consequat eget tellus a aliquam. Vestibulum augue turpis, molestie in ipsum sed, ullamcorper bibendum urna. Duis ultrices gravida rutrum. Duis et turpis eget lacus bibendum convallis. Duis quis odio ut est iaculis semper a ultricies lacus. Integer quis mi ac velit iaculis tincidunt. Nam bibendum pulvinar odio, viverra consequat mi condimentum vitae. Donec sem justo, mollis a ex non, porttitor vestibulum ipsum. Nullam suscipit eleifend nibh vitae iaculis. Proin vitae vestibulum orci. Nunc non elit at mauris sodales pretium ac et libero. Phasellus purus ex, auctor et sem eu, lacinia facilisis est. Sed in cursus enim.
+## The Open Organization Guide to IT Culture Change
+In *The Open Organization Guide to IT Culture Change*, more than 25 contributors from open communities, companies, and projects offer hard-won lessons and practical advice for creating an open IT department—one that can deliver better, faster results and unparalleled business value.
+
+## The Open Organization Guide for Educators
+What if we could build classrooms, departments, or entire educational institutions on the same values that power open source communities? What if we let open organization principles—like transparency, inclusivity, adaptability, collaboration, and community—guide our experiments in transforming education? How might that change the ways educators prepare students for life in an increasingly open world? In *The Open Organization Guide for Educators*, more than two dozen advocates for open education explore these important questions.
+
+## The Open Organization Guide to Distributed Teamwork
+**Now in development!** Mauris consequat eget tellus a aliquam. Vestibulum augue turpis, molestie in ipsum sed, ullamcorper bibendum urna. Duis ultrices gravida rutrum. Duis et turpis eget lacus bibendum convallis. Duis quis odio ut est iaculis semper a ultricies lacus. Integer quis mi ac velit iaculis tincidunt. Nam bibendum pulvinar odio, viverra consequat mi condimentum vitae. Donec sem justo, mollis a ex non, porttitor vestibulum ipsum. Nullam suscipit eleifend nibh vitae iaculis. Proin vitae vestibulum orci. Nunc non elit at mauris sodales pretium ac et libero. Phasellus purus ex, auctor et sem eu, lacinia facilisis est. Sed in cursus enim.

@@ -4,8 +4,6 @@ title: About the Open Organization project
 permalink: /about/
 ---
 
-## Our Vision
-
 The Open Organization is a community-driven project dedicated to exploring how open principles change the ways we work, manage, and lead.
 
 Our community members study and share strategies for building organizational cultures on principles like transparency, adaptability, collaboration, inclusivity, and community.
@@ -37,14 +35,3 @@ Our community members have diverse backgrounds; they're people from a number of 
 - Consider themselves champions of open organizational values and principles, as outlined in the [Open Organization Definition](https://github.com/open-organization/open-org-definition),
 - Care about the ways those values can help create better organizational experiences for everyone, and
 - Enjoy working productively with others who feel the same way.
-
-## Revision History
-
-Version 3.0  
-Updated May 2020  
-The Open Organization Ambassadors
-
-## License
-
-[Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-
