@@ -4,7 +4,7 @@ title: The Open Organization Book Series
 permalink: /books/
 ---
 
- Curabitur egestas arcu ac blandit faucibus. Sed accumsan, eros et vehicula finibus, neque risus sagittis ante, vel aliquam est mauris vitae enim. Vestibulum lobortis metus sapien, vitae venenatis leo facilisis eu. Cras euismod leo viverra erat molestie bibendum. Donec eleifend at tortor sed commodo. Maecenas sed fermentum mi, eget porta libero. Curabitur velit leo, sodales quis iaculis sit amet, venenatis ac magna. Suspendisse non augue rhoncus, congue tortor vel, venenatis quam. Sed tempor est lorem, sed dapibus nunc efficitur lobortis.
+Curabitur egestas arcu ac blandit faucibus. Sed accumsan, eros et vehicula finibus, neque risus sagittis ante, vel aliquam est mauris vitae enim. Vestibulum lobortis metus sapien, vitae venenatis leo facilisis eu. Cras euismod leo viverra erat molestie bibendum. Donec eleifend at tortor sed commodo. Maecenas sed fermentum mi, eget porta libero. Curabitur velit leo, sodales quis iaculis sit amet, venenatis ac magna. Suspendisse non augue rhoncus, congue tortor vel, venenatis quam. Sed tempor est lorem, sed dapibus nunc efficitur lobortis.
  
 # Core volumes
 
