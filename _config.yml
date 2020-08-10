@@ -17,8 +17,7 @@ subtitle: Resources for building open organizations
 logo: "/images/logo-icon.png"
 
 #Theme
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air"
+theme: bulma-clean-theme
 
 # Flags below are optional
 #
