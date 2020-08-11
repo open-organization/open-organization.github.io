@@ -1,5 +1,6 @@
 ---
-title: Home
+title: The Open Organization
+layout: default
 ---
 
 A new website for the Open Organization project is coming soon.
