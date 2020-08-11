@@ -18,7 +18,7 @@ logo: "/images/logo-icon.png"
 
 #Theme
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "contrast"
 
 # Flags below are optional
 #
