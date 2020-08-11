@@ -4,22 +4,19 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&family=Red+Hat+Text&display=swap');
 .page-header {
-	color: #ffffff;
-	background-color: #36b8e0;
+	background-color: #af7fe5;
 	background-image: none;
 	}
 body {
     font-family: "Red Hat Text", "Open Sans", sans-serif;
     color: #404040;
     }
-h1,h2,h3,h4,h5,h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: "Red Hat Display", "Open Sans", sans-serif;
-	color: #af7fe5;
     }
-a {
-  color: #e55c75;
-  text-decoration: none;
-	}
-
-
 
