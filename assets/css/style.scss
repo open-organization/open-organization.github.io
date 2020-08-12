@@ -15,20 +15,24 @@ h1,h2,h3,h4,h5,h6 {
     font-family: "Red Hat Display", "Open Sans", sans-serif;
 	}
 .main-content h1,.main-content h2,.main-content h3,.main-content h4,.main-content h5,.main-content h6{
-	color: #9966cc;
+	color: #3333cc;
     }
 a {
   color: #cc3366;
 	}
  img {
     max-width: 100%;
+	padding-bottom: 20px;
   @include large {
     max-width: 100%;
+	padding-bottom: 20px;
 	}
   @include medium {
     max-width: 75%;
+	padding-bottom: 20px;
 	}
   @include small {
     max-width: 45%;
+	padding-bottom: 20px;
 	}
 	}
