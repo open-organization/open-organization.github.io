@@ -92,5 +92,5 @@ In open organizations, community looks like:
 ## Revision History
 Version 2.0  
 Updated April 2017  
-The Open Organization Ambassadors
+The Open Organization Ambassadors  
 [Suggest a revision](https://github.com/open-organization/open-org-definition)
