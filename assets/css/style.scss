@@ -20,3 +20,15 @@ h1,h2,h3,h4,h5,h6 {
 a {
   color: #cc3366;
 	}
+ img {
+    max-width: 100%;
+  @include large {
+    max-width: 100%;
+	}
+  @include medium {
+    max-width: 75%;
+	}
+  @include small {
+    max-width: 45%;
+	}
+	}
