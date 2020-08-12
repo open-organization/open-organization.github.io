@@ -3,7 +3,9 @@ title: The Open Organization
 layout: default
 ---
 
-# Coming soon
+The Open Organization is a community-driven project dedicated to exploring how open principles change the ways we work, manage, and lead.
+
+## Coming soon
 
 A new website for the Open Organization project is coming soon.
 
