@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&family=Red+Hat+Text&display=swap');
 .page-header {
-	background-color: #5ce5e5;
+	background-color: #33cccc;
 	background-image: none;
 	}
 body {
@@ -14,6 +14,9 @@ body {
 h1,h2,h3,h4,h5,h6 {
     font-family: "Red Hat Display", "Open Sans", sans-serif;
     }
+.main-content h1,h2,h3,h4,h5,h6 {
+	color: #9966cc;
+	}
 a {
-  color: #e55c75;
+  color: #cc3366;
 	}
