@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About the Open Organization project
+title: About
 permalink: /about/
 ---
 

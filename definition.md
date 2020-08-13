@@ -86,8 +86,8 @@ In open organizations, community looks like:
 - Leaders mentor others and demonstrate strong accountability to the group by modeling shared values and principles.
 - People have a common language and work together to ensure that ideas do not get "lost in translation," and they are comfortable sharing their knowledge and stories to further the group's work.
 
-## Download the illustrated version
-[At Opensource.com](https://opensource.com/open-organization/resources/open-org-definition-book)
+## Additional Formats
+A full-color, illustrated version of The Open Organization Definition is available [at Opensource.com](https://opensource.com/open-organization/resources/open-org-definition-book).
 
 ## Revision History
 Version 2.0  
