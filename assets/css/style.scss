@@ -6,10 +6,22 @@
 .page-header {
 	background-color: #33cccc;
 	background-image: none;
+  @include large {
+    padding: 5rem 6rem 1rem;
+	}
+  @include medium {
+    padding: 3rem 4rem 1rem;
+	}
+  @include small {
+    padding: 2rem 1rem 1rem;
+	}
 	}
 .site-footer-credits {
   font-size: 80%;
 }
+.project-tagline {
+    opacity: 0.9;
+	}
 body {
     font-family: "Red Hat Text", "Open Sans", sans-serif;
     color: #404040;
@@ -25,17 +37,21 @@ a {
 	}
  img {
     max-width: 100%;
+    opacity: 0.9;
 	padding-bottom: 20px;
   @include large {
     max-width: 100%;
+    opacity: 0.9;
 	padding-bottom: 20px;
 	}
   @include medium {
     max-width: 80%;
+    opacity: 0.9;
 	padding-bottom: 20px;
 	}
   @include small {
-    max-width: 60%;
+    max-width: 75%;
+    opacity: 0.9;
 	padding-bottom: 20px;
 	}
 	}
