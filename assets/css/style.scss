@@ -29,13 +29,12 @@ body {
 h1,h2,h3,h4,h5,h6 {
     font-family: "Red Hat Display", "Open Sans", sans-serif;
 	}
-.main-content h1 {
-	color: #33cccc;
-	border-bottom: 0.12rem dotted;
-	}
-.main-content h2,.main-content h3,.main-content h4,.main-content h5,.main-content h6 {
+.main-content h1,.main-content h2,.main-content h3,.main-content h4,.main-content h5,.main-content h6 {
 	color: #33cccc;
     }
+.main-content h2 {
+	border-bottom: 0.12rem dotted;
+	}
 a {
   color: #cc3366;
 	}
