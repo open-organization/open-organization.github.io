@@ -19,6 +19,7 @@
 .site-footer-credits {
 	font-size: 80%;
 	color: #bfbfbf;
+	opacity: 0.9;
 	}
 .project-tagline {
     opacity: 0.9;
@@ -45,21 +46,21 @@ a {
 .page-header img {
     max-width: 100%;
     opacity: 0.9;
-	padding-bottom: 20px;
+	padding-bottom: 0.5rem;
   @include large {
     max-width: 100%;
     opacity: 0.9;
-	padding-bottom: 20px;
+	padding-bottom: 0.5rem;
 	}
   @include medium {
     max-width: 80%;
     opacity: 0.9;
-	padding-bottom: 20px;
+	padding-bottom: 0.5rem;
 	}
   @include small {
     max-width: 75%;
     opacity: 0.9;
-	padding-bottom: 20px;
+	padding-bottom: 0.5rem;
 	}
 	}
 
