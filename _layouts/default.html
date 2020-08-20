@@ -52,19 +52,11 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
-      <footer class="site-footer">
+    <footer class="site-footer">
 
-<!--Code for activating GitHub project page
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
--->
+	{% include footer.html %}
 
-<span class="site-footer-credits">
-<img src="https://theopenorganization.org/assets/images/red_hat_endorsement_black.png" alt="Supported by Red Hat"><br />
-The Open Organization is <a href="http://redhat.com/" title="Supported by Red Hat">supported by Red Hat</a>. © 2015‒2020 Red Hat, Inc. and others. Written materials licensed via Creative Commons <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="Attribution-ShareAlike 4.0 International">Attribution-ShareAlike 4.0 International</a> license.
-</span>
-      </footer>
+    </footer>
     </main>
   </body>
 </html>
