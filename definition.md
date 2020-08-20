@@ -30,7 +30,7 @@ That fact makes explaining any one of the characteristics difficult without refe
 ### Transparency
 In open organizations, transparency reigns. As much as possible (and advisable) under applicable laws, open organizations work to make their data and other materials easily accessible to both internal and external participants; they are open for any member to review them when necessary (see also _inclusivity_). Decisions are transparent to the extent that everyone affected by them understands the processes and arguments that led to them; they are open to assessment (see also _collaboration_). Work is transparent to the extent that anyone can monitor and assess a project's progress throughout its development; it is open to observation and potential revision if necessary (see also _adaptability_).
 
-In open organizations, transaprency looks like:
+In open organizations, transparency looks like:
 
 - Everyone working on a project or initiative has access to all pertinent materials by default.
 - People willingly disclose their work, invite participation on projects before those projects are complete and/or "final," and respond positively to request for additional details.
