@@ -86,14 +86,16 @@ In open organizations, community looks like:
 - Leaders mentor others and demonstrate strong accountability to the group by modeling shared values and principles.
 - People have a common language and work together to ensure that ideas do not get "lost in translation," and they are comfortable sharing their knowledge and stories to further the group's work.
 
-## Additional Formats
-A full-color, illustrated version of The Open Organization Definition is available [at Opensource.com](https://opensource.com/open-organization/resources/open-org-definition-book).
-
-## Maturity Model
-How open is your organization? The Open Organization Maturity Model can help you assess your team, department, and organization. [Use the tool](https://www.ready-to-innovate.com/openorg/) and [download the text](https://github.com/open-organization/open-org-maturity-model).
-
 ## Revision History
 Version 2.0  
 Updated April 2017  
 The Open Organization Ambassadors  
 [Suggest a revision](https://github.com/open-organization/open-org-definition)
+
+## More Resources
+
+### Additional Formats
+A full-color, illustrated version of The Open Organization Definition is available [at Opensource.com](https://opensource.com/open-organization/resources/open-org-definition-book).
+
+### Maturity Model
+How open is your organization? The Open Organization Maturity Model can help you assess your team, department, and organization. [Use the tool](https://www.ready-to-innovate.com/openorg/) and [download the text](https://github.com/open-organization/open-org-maturity-model).
