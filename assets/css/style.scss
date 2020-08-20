@@ -16,6 +16,26 @@
     padding: 2rem 1rem 1rem;
 	}
 	}
+.page-header img {
+    max-width: 100%;
+    opacity: 0.9;
+	padding-bottom: 0.5rem;
+  @include large {
+    max-width: 100%;
+    opacity: 0.9;
+	padding-bottom: 0.5rem;
+	}
+  @include medium {
+    max-width: 80%;
+    opacity: 0.9;
+	padding-bottom: 0.5rem;
+	}
+  @include small {
+    max-width: 75%;
+    opacity: 0.9;
+	padding-bottom: 0.5rem;
+	}
+	}
 .site-footer-credits {
 	font-size: 80%;
 	color: #bfbfbf;
@@ -42,25 +62,5 @@ h1,h2,h3,h4,h5,h6 {
 	}
 a {
   color: #cc3366;
-	}
-.page-header img {
-    max-width: 100%;
-    opacity: 0.9;
-	padding-bottom: 0.5rem;
-  @include large {
-    max-width: 100%;
-    opacity: 0.9;
-	padding-bottom: 0.5rem;
-	}
-  @include medium {
-    max-width: 80%;
-    opacity: 0.9;
-	padding-bottom: 0.5rem;
-	}
-  @include small {
-    max-width: 75%;
-    opacity: 0.9;
-	padding-bottom: 0.5rem;
-	}
 	}
 
