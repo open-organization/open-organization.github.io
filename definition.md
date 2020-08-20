@@ -89,6 +89,9 @@ In open organizations, community looks like:
 ## Additional Formats
 A full-color, illustrated version of The Open Organization Definition is available [at Opensource.com](https://opensource.com/open-organization/resources/open-org-definition-book).
 
+## Maturity Model
+How open is your organization? The Open Organization Maturity Model can help you assess your team, department, and organization. [Use the tool](https://www.ready-to-innovate.com/openorg/) and [download the text](https://github.com/open-organization/open-org-maturity-model).
+
 ## Revision History
 Version 2.0  
 Updated April 2017  
