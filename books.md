@@ -4,9 +4,10 @@ title: Book Series
 permalink: /books/
 ---
 
+# Books
 The *Open Organization* book series is an open source, collaboratively written, always-evolving library of materials for understanding, exploring, and building next-generation organizations.
 
-Anyone can help edit the books and add new chapters—even **you**. Join the [Open Organization community on GitHub](https://github.com/open-organization) to get started.
+Anyone can help edit the books and add new chapters, Join the [Open Organization community on GitHub](https://github.com/open-organization) to get started.
 
 ## Core volumes
 
@@ -31,5 +32,4 @@ What if we could build classrooms, departments, or entire educational institutio
 **Now in development!** Distributed organizations are more common than they've ever been. And the challenges to working together at a distance have never been more pressing. Across all industries and geographies, teams are rethinking how they operate—and questioning fundamental assumptions about the nature of work. Open organizational principles—like transparency, inclusivity, adaptability, collaboration, and community—can catalyze high-performing teams anywhere, even (perhaps especially) when their members are far apart. *The Open Organization Guide to Distributed Teamwork* offers remote, distributed teams guide to the open principles and practices essential for building dynamic, inclusive, high-performing teams—no matter where their members happen to be. [Contribute now!](https://github.com/open-organization/open-org-distributed-work-guide)
 
 ## License
-
 Volumes in the *Open Organization* book series are licensed via Creative Commons [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
