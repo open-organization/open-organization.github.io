@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&family=Red+Hat+Text&display=swap');
 .page-header {
-	background-color: #3333cc;
+	background-color: #ffffff;
 	background-image: none;
   @include large {
     padding: 5rem 6rem 1rem;
@@ -18,31 +18,43 @@
 	}
 .page-header img {
     max-width: 100%;
-    opacity: 0.9;
 	padding-bottom: 0.5rem;
   @include large {
     max-width: 100%;
-    opacity: 0.9;
 	padding-bottom: 0.5rem;
 	}
   @include medium {
     max-width: 80%;
-    opacity: 0.9;
 	padding-bottom: 0.5rem;
 	}
   @include small {
     max-width: 75%;
-    opacity: 0.9;
 	padding-bottom: 0.5rem;
 	}
 	}
 .site-footer-credits {
 	font-size: 80%;
 	color: #bfbfbf;
-	opacity: 0.9;
 	}
 .project-tagline {
-    opacity: 0.9;
+	color: #404040;
+	}
+.btn {
+ display:inline-block;
+ margin-bottom:1rem;
+ color:#cc3366;
+ background-color:#ffffff;
+ border-color:#bfbfbf;
+ border-style:solid;
+ border-width:1px;
+ border-radius:0.3rem;
+ transition:color 0.3s, background-color 0.3s, border-color 0.3s;
+	}
+.btn:hover {
+ color: #cc3366;
+ text-decoration:none;
+ background-color:#ffffff;
+ border-color:#404040;
 	}
 body {
     font-family: "Red Hat Text", "Open Sans", sans-serif;
