@@ -7,7 +7,7 @@ permalink: /books/
 # Books
 The *Open Organization* book series is an open source, collaboratively written, always-evolving library of materials for understanding, exploring, and building next-generation organizations.
 
-Anyone can help edit the books and add new chapters, Join the [Open Organization community on GitHub](https://github.com/open-organization) to get started.
+Anyone can help edit the books and add new chapters. Join the [Open Organization community on GitHub](https://github.com/open-organization) to get started.
 
 ## Core volumes
 
