@@ -1,9 +1,8 @@
 ---
-layout: home
+title: The Open Organization
+layout: default
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tempus velit quis nunc facilisis, at cursus leo accumsan. Nulla ultrices dignissim libero vitae eleifend. Nulla dictum odio posuere mi porta, quis tristique metus euismod. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras pellentesque vel purus vel suscipit. Vestibulum feugiat metus lacinia egestas sollicitudin. Pellentesque tempor non libero ut accumsan. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam molestie orci dignissim enim fermentum pharetra. Nunc diam dolor, fringilla vitae eros eu, fermentum fermentum turpis. Suspendisse potenti. Mauris neque ante, tempus non condimentum id, lacinia pulvinar sapien. Morbi elit nisi, malesuada a ipsum vel, lobortis facilisis tortor. In hac habitasse platea dictumst. Sed semper molestie velit, ut commodo sapien volutpat nec.
+The Open Organization is a community-driven project dedicated to exploring how [open principles](https://theopenorganization.org/definition) change the ways we work, manage, and lead.
 
-Curabitur egestas arcu ac blandit faucibus. Sed accumsan, eros et vehicula finibus, neque risus sagittis ante, vel aliquam est mauris vitae enim. Vestibulum lobortis metus sapien, vitae venenatis leo facilisis eu. Cras euismod leo viverra erat molestie bibendum. Donec eleifend at tortor sed commodo. Maecenas sed fermentum mi, eget porta libero. Curabitur velit leo, sodales quis iaculis sit amet, venenatis ac magna. Suspendisse non augue rhoncus, congue tortor vel, venenatis quam. Sed tempor est lorem, sed dapibus nunc efficitur lobortis.
-
-Nulla facilisi. Suspendisse potenti. Phasellus at lacus rutrum, vehicula nisi sit amet, viverra nunc. Fusce rutrum enim pellentesque aliquet mollis. Duis cursus posuere turpis sit amet iaculis. Nulla auctor felis diam, ac lobortis ex volutpat in. Nulla facilisi. Donec molestie dapibus ligula, id tristique neque hendrerit id. Proin aliquam, nibh eget molestie vestibulum, ligula felis fermentum lacus, eget aliquet arcu felis ut purus. Sed non mauris finibus, auctor erat non, varius dolor. Maecenas ut dolor nec tellus pretium faucibus eu sit amet lectus. Duis ullamcorper volutpat eros sit amet suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+Our community members study and share strategies for building organizational cultures on principles like transparency, adaptability, collaboration, inclusivity, and community.
