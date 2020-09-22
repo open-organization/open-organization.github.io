@@ -390,6 +390,8 @@ body { font-family: "Red Hat Text", "Open Sans", sans-serif; color: #404040; }
 
 h1, h2, h3, h4, h5, h6 { font-family: "Red Hat Display", "Open Sans", sans-serif; }
 
+@media screen and (max-width: 42em) { .main-content :first-child { margin-top: 3%; } }
+
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { color: #404040; }
 
 .main-content h2 { border-bottom: 0.12rem dotted; }
@@ -400,10 +402,10 @@ h1, h2, h3, h4, h5, h6 { font-family: "Red Hat Display", "Open Sans", sans-serif
 
 .main-content ul li { margin: 3% 0% 0% 0%; }
 
-img[src*="book-cover"] { width: 250px; float: right; margin-left: 5%; }
+img[src*="book-cover"] { width: 35%; float: right; margin-left: 5%; }
+
+@media screen and (max-width: 42em) { img[src*="book-cover"] { width: 70%; float: none; } }
 
 a { color: #753fb2; }
-
-@media only screen and (max-width: 600px) { img[src*="book-cover"] { float: none; } .main-content :first-child { margin-top: 3%; } }
 
 /*# sourceMappingURL=style.css.map */

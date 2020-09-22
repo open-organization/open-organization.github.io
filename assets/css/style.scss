@@ -63,6 +63,12 @@ body {
 h1,h2,h3,h4,h5,h6 {
     font-family: "Red Hat Display", "Open Sans", sans-serif;
 	}
+.main-content :first-child{
+	@include small{
+		margin-top:3%;
+	}
+}
+
 .main-content h1,.main-content h2,.main-content h3,.main-content h4,.main-content h5,.main-content h6 {
 	color: #404040;
     }
@@ -80,19 +86,14 @@ h1,h2,h3,h4,h5,h6 {
 	margin: 3% 0% 0% 0%;
 	}
 img[src*="book-cover"] {
-	width: 250px;
+	width: 35%;
 	float: right;
 	margin-left: 5%;
+	@include small {
+    width: 70%;
+    float:none;
+	}
 	}
 a {
   color: #753fb2;
 	}
-@media only screen and (max-width: 600px) {
-	img[src*="book-cover"] {
-		float: none;
-		}
-	.main-content :first-child{
-		margin-top:3%;
-	}
-}
-
