@@ -87,4 +87,12 @@ img[src*="book-cover"] {
 a {
   color: #753fb2;
 	}
+@media only screen and (max-width: 600px) {
+	img[src*="book-cover"] {
+		float: none;
+		}
+	.main-content :first-child{
+		margin-top:3%;
+	}
+}
 
