@@ -396,6 +396,10 @@ h1, h2, h3, h4, h5, h6 { font-family: "Red Hat Display", "Open Sans", sans-serif
 
 .main-content h3 { margin-bottom: -0.8rem; }
 
+.main-content ul { background-color: #ddd; padding: 5% 10%; }
+
+.main-content ul li { margin: 5% 0%; }
+
 a { color: #753fb2; }
 
 /*# sourceMappingURL=style.css.map */
