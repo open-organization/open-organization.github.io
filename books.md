@@ -12,12 +12,18 @@ Anyone can help edit the books and add new chapters. Join the [Open Organization
 ## Core volumes
 
 ### The Open Organization Field Guide
+[![Open org field guide](/assets/images/openorg_fieldguide_cover.png#book-cover)](https://opensource.com/open-organization/resources/field-guide)
+
 [*The Open Organization Field Guide*](https://opensource.com/open-organization/resources/field-guide) is a community-produced companion to [Jim Whitehurst's initial thoughts on the future of work, management, and leadership](https://www.redhat.com/en/explore/the-open-organization-book). The book collects cutting-edge ideas about the ways open source values are changing the ways we work, manage, and lead.
 
 ### The Open Organization Leaders Manual
-[*The Open Organization Leaders Manual*](https://opensource.com/open-organization/resources/leaders-manual) is a handbook for anyone attempting to harness the power of openness to lead teams that are more transparent, agile, collaborative, and mission-driven.
+[![Open org leaders manual](/assets/images/openorg_leadersmanual_cover.png#book-cover)](https://opensource.com/open-organization/resources/leaders-manual)
+
+[*The Open Organization Leaders Manual*](https://opensource.com/open-organization/resources/leaders-manual) is a handbook for anyone attempting to harness the power of openness to lead teams that are more transparent, agile, collaborative, and mission-driven. Newly revised and significantly expanded in its second edition, this book is for anyone interested in building more transparent, agile, collaborative, and mission-driven organizations.
 
 ### The Open Organization Workbook
+[![Open org Workbook](/assets/images/openorg_workbook_cover.png#book-cover)](https://opensource.com/open-organization/resources/workbook)
+
 [*The Open Organization Workbook*](https://opensource.com/open-organization/resources/workbook) features contributions from more than 30 managers, educators, technologists, consultants, and other experts, who offer concrete and actionable strategies for putting the principles of transparency, inclusivity, adaptability, collaboration, and community into practice.
 
 ## Guides

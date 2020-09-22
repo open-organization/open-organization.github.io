@@ -400,6 +400,8 @@ h1, h2, h3, h4, h5, h6 { font-family: "Red Hat Display", "Open Sans", sans-serif
 
 .main-content ul li { margin: 5% 0%; }
 
+img[src*="book-cover"] { width: 250px; float: left; margin-right: 5%; }
+
 a { color: #753fb2; }
 
 /*# sourceMappingURL=style.css.map */
