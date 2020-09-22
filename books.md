@@ -29,9 +29,12 @@ Anyone can help edit the books and add new chapters. Join the [Open Organization
 ## Guides
 
 ### The Open Organization Guide to IT Culture Change
+[![Open org Guide to IT Culture Change](/assets/images/openorg_itculture_cover.png#book-cover)](https://opensource.com/open-organization/resources/culture-change)
+
 In [*The Open Organization Guide to IT Culture Change*](https://opensource.com/open-organization/resources/culture-change), more than 25 contributors from open communities, companies, and projects offer hard-won lessons and practical advice for creating an open IT department—one that can deliver better, faster results and unparalleled business value.
 
 ### The Open Organization Guide for Educators
+[![Open org Guide for Educators](/assets/images/openorg_educators_cover.png#book-cover)](https://opensource.com/open-organization/resources/educators-guide)
 What if we could build classrooms, departments, or entire educational institutions on the same values that power open source communities? What if we let open organization principles—like transparency, inclusivity, adaptability, collaboration, and community—guide our experiments in transforming education? How might that change the ways educators prepare students for life in an increasingly open world? In [*The Open Organization Guide for Educators*](https://opensource.com/open-organization/resources/educators-guide), more than two dozen advocates for open education explore these important questions.
 
 ### The Open Organization Guide to Distributed Teamwork
