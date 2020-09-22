@@ -72,6 +72,19 @@ h1,h2,h3,h4,h5,h6 {
 .main-content h3 {
 	margin-bottom: -0.8rem;
 	}
+.main-content ul{
+	background-color: #bfbfbf;
+	padding: 5% 10%;
+}
+.main-content ul li{
+	margin: 5% 0%;
+	}
+img[src*="book-cover"] {
+	width:250px;
+	float:left;
+	margin-right:5%;
+	border: 1px solid #bfbfbf;
+	}
 a {
   color: #753fb2;
 	}
