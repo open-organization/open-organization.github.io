@@ -29,9 +29,9 @@ Anyone can help edit the books and add new chapters. Join the [Open Organization
 ## Guides
 
 ### Human at a Distance: An Open Organization Guide to Distributed Teamwork
-[![Human at a Distance](/assets/images/human_distance_cover.png#book-cover)](https://github.com/open-organization/open-org-distributed-work-guide/releases/download/1.0/open_org_guide_distributed_teamwork_1_0.pdf)
+[![Human at a Distance](/assets/images/human_distance_cover.png)](https://github.com/open-organization/open-org-distributed-work-guide/releases/download/1.0/open_org_guide_distributed_teamwork_1_0.pdf)
 
-Featuring chapters from contributors in various organizations across the globe, [Human at a Distance](https://bit.ly/2WpDZhO) explores how open principles and practices can help organizations foster collaboration, increase transparency, enhance accountability, and establish a greater degree of trust and camaraderie while their members are geographically separated. This guide offers remote, distributed teams (those working remotely for the first time, as well as those with extensive remote-work experience) a guide to the open principles and practices essential for building dynamic, inclusive, high-performing teams—no matter where their members happen to be.
+Featuring chapters from contributors in various organizations across the globe, [*Human at a Distance*](https://bit.ly/2WpDZhO) explores how open principles and practices can help organizations foster collaboration, increase transparency, enhance accountability, and establish a greater degree of trust and camaraderie while their members are geographically separated. This guide offers remote, distributed teams (those working remotely for the first time, as well as those with extensive remote-work experience) a guide to the open principles and practices essential for building dynamic, inclusive, high-performing teams—no matter where their members happen to be.
 
 ### The Open Organization Guide to IT Culture Change
 [![Open org Guide to IT Culture Change](/assets/images/openorg_itculture_cover.png#book-cover)](https://opensource.com/open-organization/resources/culture-change)
