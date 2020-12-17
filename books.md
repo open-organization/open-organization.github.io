@@ -28,10 +28,10 @@ Anyone can help edit the books and add new chapters. Join the [Open Organization
 
 ## Guides
 
-### Human at a Distance An Open Organization Guide to Distributed Teamwork
-[![Human at a Distance](/assets/images/human-distance-sm.png#book-cover)](https://bit.ly/2WpDZhO)
+### Human at a Distance: An Open Organization Guide to Distributed Teamwork
+[![Human at a Distance](/assets/images/human_distance_cover.png#book-cover)](https://github.com/open-organization/open-org-distributed-work-guide/releases/download/1.0/open_org_guide_distributed_teamwork_1_0.pdf)
 
-Featuring chapters from contributors in various organizations across the globe, [Human at a Distance](https://bit.ly/2WpDZhO) explores how open principles and practices can help organizations foster collaboration, increase transparency, enhance accountability, and establish a greater degree of trust and camaraderie while their members are geographically separated. Like all other books in the Open Organization series, Human at a Distance is licensed with a Creative Commons license that permits sharing, translation, and remix. The community invites additional contributions to the book, which will receive its first planned update in early 2021.
+Featuring chapters from contributors in various organizations across the globe, [Human at a Distance](https://bit.ly/2WpDZhO) explores how open principles and practices can help organizations foster collaboration, increase transparency, enhance accountability, and establish a greater degree of trust and camaraderie while their members are geographically separated. This guide offers remote, distributed teams (those working remotely for the first time, as well as those with extensive remote-work experience) a guide to the open principles and practices essential for building dynamic, inclusive, high-performing teams—no matter where their members happen to be.
 
 ### The Open Organization Guide to IT Culture Change
 [![Open org Guide to IT Culture Change](/assets/images/openorg_itculture_cover.png#book-cover)](https://opensource.com/open-organization/resources/culture-change)
@@ -42,9 +42,6 @@ In [*The Open Organization Guide to IT Culture Change*](https://opensource.com/o
 [![Open org Guide for Educators](/assets/images/openorg_educators_cover.png#book-cover)](https://opensource.com/open-organization/resources/educators-guide)
 
 What if we could build classrooms, departments, or entire educational institutions on the same values that power open source communities? What if we let open organization principles guide our experiments in transforming education? How might that change the ways educators prepare students for life in an increasingly open world? In [*The Open Organization Guide for Educators*](https://opensource.com/open-organization/resources/educators-guide), more than two dozen advocates for open education explore these important questions.
-
-### The Open Organization Guide to Distributed Teamwork
-**Now in development!** Distributed organizations are more common than they've ever been. And the challenges to working together at a distance have never been more pressing. Across all industries and geographies, teams are rethinking how they operate—and questioning fundamental assumptions about the nature of work. Open organizational principles—like transparency, inclusivity, adaptability, collaboration, and community—can catalyze high-performing teams anywhere, even (perhaps especially) when their members are far apart. *The Open Organization Guide to Distributed Teamwork* offers remote, distributed teams guide to the open principles and practices essential for building dynamic, inclusive, high-performing teams—no matter where their members happen to be. [Contribute now!](https://github.com/open-organization/open-org-distributed-work-guide)
 
 ## License
 Volumes in the *Open Organization* book series are licensed via Creative Commons [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
