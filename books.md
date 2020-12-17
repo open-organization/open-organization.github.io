@@ -28,6 +28,11 @@ Anyone can help edit the books and add new chapters. Join the [Open Organization
 
 ## Guides
 
+### Human at a Distance An Open Organization Guide to Distributed Teamwork
+[![Human at a Distance](/assets/images/human-distance-sm.png#book-cover)](https://bit.ly/2WpDZhO)
+
+Featuring chapters from contributors in various organizations across the globe, [Human at a Distance](https://bit.ly/2WpDZhO) explores how open principles and practices can help organizations foster collaboration, increase transparency, enhance accountability, and establish a greater degree of trust and camaraderie while their members are geographically separated. Like all other books in the Open Organization series, Human at a Distance is licensed with a Creative Commons license that permits sharing, translation, and remix. The community invites additional contributions to the book, which will receive its first planned update in early 2021.
+
 ### The Open Organization Guide to IT Culture Change
 [![Open org Guide to IT Culture Change](/assets/images/openorg_itculture_cover.png#book-cover)](https://opensource.com/open-organization/resources/culture-change)
 
