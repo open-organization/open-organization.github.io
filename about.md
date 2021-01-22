@@ -4,28 +4,28 @@ title: About
 permalink: /about/
 ---
 
-# About
-The Open Organization is a community-driven project dedicated to exploring how open principles change the ways we work, manage, and lead.
+## Our purpose
+The Open Organization is a community-driven project leading a global conversation about the ways open principles change how people work, manage, and lead.
 
-Our community members study and share strategies for building organizational cultures on principles like transparency, adaptability, collaboration, inclusivity, and community.
+Our community members generate knowledge and share strategies for building organizational cultures on principles like transparency, adaptability, collaboration, inclusivity, and community.
 
-## Our Commitments
+## Our commitments
 We're committed to:
 
-- **Learning.** We're researching open source values so we can better understand how they're influencing today's innovative organizational cultures, and we're always refining the "open organization" concept, differentiating or distinguishing it from seemingly similar approaches to management and leadership.
-- **Helping.** We're a trusted resource for anyone interested in leveraging the power of open principles to improve their organizations.
-- **Translating.** We explain community-specific vocabularies to general audiences seeking to understand the benefits of an open approach to management and leadership.
+- **Empowering.** We offer our expertise to anyone interested in leveraging the power of open principles to improve their organizations.
 - **Engaging.** We draw others into productive dialogues and exploratory activities that illuminate the benefits of applying open thinking to organizational contexts.
+- **Translating.** We explain community-specific vocabularies to general audiences seeking to understand the benefits of an open approach to management and leadership.
+- **Learning.** We research open values and principles so we can better understand how they're influencing today's innovative organizational cultures, and we're always refining the "open organization" concept, differentiating or distinguishing it from seemingly similar approaches to management and leadership.
 
-## Our Methods
+## Our methods
 We do all this by:
 
-- Publishing articles, books, and other resources exploring the nature of openness in contemporary organizations
-- Exhibiting and speaking at industry and community-focused events
-- Connecting with and interviewing innovative leaders, managers, and practitioners innovating in an open manner
-- Maintaining a repository of high-quality, immediately accessible, vetted resources anyone can use to implement open principles in their teams or organizations
+- Connecting with and fostering relationships between innovative leaders, managers, and practitioners innovating in an open way
+- Co-creating case studies, books, videos, and other resources exploring the nature of openness in contemporary organizations
+- Exhibiting and speaking at industry and community-focused events to expand awareness of open principles and their benefits
+- Maintaining a repository of high-quality, immediately accessible, vetted resources anyone can use to implement open practices in their teams or organizations
 
-## Our Contributors
+## Our contributors
 The Open Organization project welcomes contributors of all kinds.
 
 Our community members have diverse backgrounds; they're people from a number of different of domains (consulting, education, non-profits, open source software development, and more) who possess varying levels of experience and technical proficiencies. They [play different roles](https://github.com/open-organization/governance/wiki/Community-Roles) in the Open Organization project. But they all:
