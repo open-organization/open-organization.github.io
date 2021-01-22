@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+# About
+
 ## Our purpose
 The Open Organization is a community-driven project leading a global conversation about the ways open principles change how people work, manage, and lead.
 
