@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Open Organization Definition
+title: Community Roster
 permalink: /roster/
 ---
 
