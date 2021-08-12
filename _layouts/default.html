@@ -36,13 +36,16 @@
 -->
 	<a href="https://theopenorganization.org" title="Home"><img src="https://theopenorganization.org/assets/images/openorg_logo_standard.png" alt="The Open Organization"></a>
 	<br />
-	<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>	
-	<a href="https://theopenorganization.org/about" title="About" class="btn">About</a>
-	<a href="https://theopenorganization.org/definition" title="Definition" class="btn">Definitions</a>
-	<a href="https://theopenorganization.org/books" title="Books" class="btn">Books</a>
-	<a href="https://opensource.com/open-organization" title="Articles" class="btn" target="_blank">Articles</a>
-	<a href="http://theopenorganization.tv" title="Videos" class="btn" target="_blank">Videos</a>
-	<a href="http://theopenorganization.community" title="Community" class="btn" target="_blank">Community</a>	
+	<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+	{% include text-expand.html %}
+	<div id="menu">	
+		<a href="https://theopenorganization.org/about" title="About" class="btn">About</a>
+			<a href="https://theopenorganization.org/definition" title="Definition" class="btn">Definitions</a>
+			<a href="https://theopenorganization.org/books" title="Books" class="btn">Books</a>
+			<a href="https://opensource.com/open-organization" title="Articles" class="btn" target="_blank">Articles</a>
+			<a href="http://theopenorganization.tv" title="Videos" class="btn" target="_blank">Videos</a>
+			<a href="http://theopenorganization.community" title="Community" class="btn" target="_blank">Community</a>
+    </div>	
 	<br />
 	<a href="https://github.com/open-organization" title="GitHub" target="_blank"><img src="https://theopenorganization.org/assets/images/github_social_black.png" alt="On GitHub"></a>
 	<a href="https://twitter.com/openorgproject" title="Twitter" target="_blank"><img src="https://theopenorganization.org/assets/images/twitter_social_black.png" alt="On Twitter"></a>

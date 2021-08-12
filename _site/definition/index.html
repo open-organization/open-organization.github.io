@@ -5,18 +5,18 @@
     
     <meta charset="UTF-8">
 
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>The Open Organization Definition | The Open Organization</title>
-<meta name="generator" content="Jekyll v4.1.1" />
-<meta property="og:title" content="The Open Organization Definition" />
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Definitions | The Open Organization</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Definitions" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Resources for building open organizations" />
 <meta property="og:description" content="Resources for building open organizations" />
-<link rel="canonical" href="http://localhost:4000/definition/" />
-<meta property="og:url" content="http://localhost:4000/definition/" />
 <meta property="og:site_name" content="The Open Organization" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Definitions" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/definition/","headline":"The Open Organization Definition","description":"Resources for building open organizations","@type":"WebPage","@context":"https://schema.org"}</script>
+{"headline":"Definitions","@type":"WebPage","url":"/definition/","description":"Resources for building open organizations","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -29,138 +29,98 @@
     <header class="page-header" role="banner">
     
 <!--Code for replicating project name, description, and download links in header
-      <h1 class="project-name">The Open Organization Definition</h1>
+      <h1 class="project-name">Definitions</h1>
 
       
       
 -->
 	<a href="https://theopenorganization.org" title="Home"><img src="https://theopenorganization.org/assets/images/openorg_logo_standard.png" alt="The Open Organization"></a>
 	<br />
-	<h2 class="project-tagline">Resources for building open organizations</h2>	
-	<a href="https://theopenorganization.org/about" title="About" class="btn">About</a>
-	<a href="https://theopenorganization.org/definition" title="Definition" class="btn">Definition</a>
-	<a href="https://theopenorganization.org/books" title="Books" class="btn">Books</a>
-	<a href="https://opensource.com/open-organization" title="Articles" class="btn" target="_blank">Articles</a>
-	<a href="https://www.theopenorganization.community" title="Community" class="btn" target="_blank">Community</a>	
+	<h2 class="project-tagline">Resources for building open organizations</h2>
+	<a id="togglemenu" onclick="document.body.classList.toggle('menuopen');">Menu<span><span></span><span></span><span></span></span></a>
+
+<style>
+@keyframes span1 {
+    0%   { top: 0%; transform-origin: 50% 50%;}
+    50%  { top: 50%; transform: rotate(0deg) translateY(-50%);}
+    100% { top: 50%; transform: rotate(45deg) translateY(-50%);}
+}
+@keyframes span2 {
+    0%   {opacity: 1;}
+    45%  {opacity: 1;}
+    65%  {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes span3 {
+    0%   { bottom: 0%; transform-origin: 50% 50%;}
+    45%  { bottom: 50%; transform: rotate(0deg) translateY(50%);}
+    100% { bottom: 50%; transform: rotate(-45deg) translateY(50%);}
+}
+
+#togglemenu {display: none;}
+@media only screen and (max-width: 55rem) {
+    #menu {display: none;}
+    .menuopen #menu {display: block;}
+    #togglemenu {display: block; cursor: pointer;}
+    
+}
+#togglemenu > span {display: inline-block; margin-left: 0.4rem; width: 1.1rem; height: 0.75rem; position: relative; vertical-align: middle; position: relative; bottom: 1px;}
+#togglemenu > span > span {display: block; position: absolute; width: 100%; height: 2px; background: #999;}
+#togglemenu > span > span:nth-child(1) {top: 0; transform-origin: 50% 0%;}
+#togglemenu > span > span:nth-child(2) {top: 50%; margin-top: -1px;}
+#togglemenu > span > span:nth-child(3) {bottom: 0; transform-origin: 50% 100%;}
+
+.menuopen #togglemenu > span > span:nth-child(1) {
+    animation: span1 0.25s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+.menuopen #togglemenu > span > span:nth-child(2) {
+    animation: span2 0.25s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;  
+}
+.menuopen #togglemenu > span > span:nth-child(3) {
+    animation: span3 0.25s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards; 
+}
+</style>
+
+	<div id="menu">	
+		<a href="https://theopenorganization.org/about" title="About" class="btn">About</a>
+			<a href="https://theopenorganization.org/definition" title="Definition" class="btn">Definitions</a>
+			<a href="https://theopenorganization.org/books" title="Books" class="btn">Books</a>
+			<a href="https://opensource.com/open-organization" title="Articles" class="btn" target="_blank">Articles</a>
+			<a href="http://theopenorganization.tv" title="Videos" class="btn" target="_blank">Videos</a>
+			<a href="http://theopenorganization.community" title="Community" class="btn" target="_blank">Community</a>
+    </div>	
 	<br />
 	<a href="https://github.com/open-organization" title="GitHub" target="_blank"><img src="https://theopenorganization.org/assets/images/github_social_black.png" alt="On GitHub"></a>
 	<a href="https://twitter.com/openorgproject" title="Twitter" target="_blank"><img src="https://theopenorganization.org/assets/images/twitter_social_black.png" alt="On Twitter"></a>
+	<a href="https://linkedin.com/company/the-open-organization" title="LinkedIn" target="_blank"><img src="https://theopenorganization.org/assets/images/linkedin_social_black.png" alt="On LinkedIn"></a>
 	<a href="https://opensource.com/taxonomy/term/14761/feed" title="RSS"><img src="https://theopenorganization.org/assets/images/rss_social_black.png" alt="RSS"></a>
 	</header>
 
     <main id="content" class="main-content" role="main">
-      <h1 id="the-open-organization-definition">The Open Organization Definition</h1>
+      <h1 id="definitions">Definitions</h1>
+<p>The Open Organization community maintains openly licensed, working definitions of concepts central to its work.</p>
 
-<h2 id="preamble">Preamble</h2>
-<p>Openness is becoming increasingly central to the ways groups and teams of all sizes are working together to achieve shared goals. And today, the most forward-thinking organizations—whatever their missions—are embracing openness as a necessary orientation toward success. They’ve seen that openness can lead to:</p>
+<p>Anyone can help improve them. Join the <a href="https://github.com/open-organization">Open Organization community on GitHub</a> to get started.</p>
 
-<ul>
-  <li><strong>Greater agility</strong>, as members are more capable of working toward goals in unison and with shared vision;</li>
-  <li><strong>Faster innovation</strong>, as ideas from both inside and outside the organization receive more equitable consideration and rapid experimentation, and;</li>
-  <li><strong>Increased engagement</strong>, as members clearly see connections between their particular activities and an organization’s overarching values, mission, and spirit.</li>
-</ul>
+<h2 id="the-open-organization-definition">The Open Organization Definition</h2>
+<p>Forward-thinking organizations are embracing open principles in order to become more agile, innovative, and engaged. <a href="https://theopenorganization.org/definition/open-organization-definition">The Open Organization Definition</a> outlines five characteristics of open organizations—transparency, inclusivity, adaptability, collaboration, and community—and explains how they can serve as a foundation for new organizational behaviors, systems, and structures.</p>
 
-<p>But openness is fluid. Openness is multifaceted. Openness is contested.</p>
+<h3 id="maturity-model">Maturity model</h3>
+<p>How open is your organization? The Open Organization Maturity Model can help you assess your team, department, and organization. <a href="https://www.ready-to-innovate.com/openorg/">Use the tool</a> and <a href="https://github.com/open-organization/open-org-maturity-model">download the text</a>.</p>
 
-<p>While every organization is different—and therefore every example of an open organization is unique—we believe these five characteristics serve as the basic conditions for openness in most contexts:</p>
-
-<ul>
-  <li>Transparency</li>
-  <li>Inclusivity</li>
-  <li>Adaptability</li>
-  <li>Collaboration</li>
-  <li>Community</li>
-</ul>
-
-<h2 id="characteristics-of-an-open-organization">Characteristics of an Open Organization</h2>
-<p>Open organizations take many shapes. Their sizes, compositions, and missions vary. But the following five characteristics are the hallmarks of any open organization.</p>
-
-<p>In practice, every open organization likely exemplifies each one of these characteristics differently, and to a greater or lesser extent. Moreover, some organizations that don’t consider themselves open organizations might nevertheless embrace a few of them. But truly open organizations embody them all—and they connect them in powerful and productive ways.</p>
-
-<p>That fact makes explaining any one of the characteristics difficult without reference to the others.</p>
-
-<h3 id="transparency">Transparency</h3>
-<p>In open organizations, transparency reigns. As much as possible (and advisable) under applicable laws, open organizations work to make their data and other materials easily accessible to both internal and external participants; they are open for any member to review them when necessary (see also <em>inclusivity</em>). Decisions are transparent to the extent that everyone affected by them understands the processes and arguments that led to them; they are open to assessment (see also <em>collaboration</em>). Work is transparent to the extent that anyone can monitor and assess a project’s progress throughout its development; it is open to observation and potential revision if necessary (see also <em>adaptability</em>).</p>
-
-<p>In open organizations, transparency looks like:</p>
-
-<ul>
-  <li>Everyone working on a project or initiative has access to all pertinent materials by default.</li>
-  <li>People willingly disclose their work, invite participation on projects before those projects are complete and/or “final,” and respond positively to request for additional details.</li>
-  <li>People affected by decisions can access and review the processes and arguments that lead to those decisions, and they can comment on and respond to them.</li>
-  <li>Leaders encourage others to tell stories about both their failures and their successes without fear of repercussion; associates are forthcoming about both.</li>
-  <li>People value both success and failures for the lessons they provide.</li>
-  <li>Goals are public and explicit, and people working on projects clearly indicate roles and responsibilities to enhance accountability.</li>
-</ul>
-
-<h3 id="inclusivity">Inclusivity</h3>
-<p>Open organizations are inclusive. They not only welcome diverse points of view but also implement specific mechanisms for inviting multiple perspectives into dialog wherever and whenever possible. Interested parties and newcomers can begin assisting the organization without seeking express permission from each of its stakeholders (see also <em>collaboration</em>). Rules and protocols for participation are clear (see also <em>transparency</em>) and operate according to vetted and common standards.</p>
-
-<p>In open organizations, inclusivity looks like:</p>
-
-<ul>
-  <li>Technical channels and social norms for encouraging diverse points of view are well-established and obvious.</li>
-  <li>Protocols and procedures for participation are clear, widely available, and acknowledged, allowing for constructive inclusion of diverse perspectives.</li>
-  <li>The organization features multiple channels and/or methods for receiving feedback in order to accommodate people’s preferences.</li>
-  <li>Leaders regularly assess and respond to feedback they receive, and cultivate a culture that encourages frequent dialog regarding this feedback.</li>
-  <li>Leaders are conscious of voices not present in dialog and actively seek to include or incorporate them.</li>
-  <li>People feel a duty to voice opinions on issues relevant to their work or about which they are passionate.</li>
-  <li>People work transparently and share materials via common standards and/or agreed-upon platforms that do not prevent others from accessing or modifying them.</li>
-</ul>
-
-<h3 id="adaptability">Adaptability</h3>
-<p>Open organizations are flexible and resilient organizations. Organizational policies and technical apparatuses ensure that both positive and negative feedback loops have a genuine and material effect on organizational operation; participants can control and potentially alter the conditions under which they work. They report frequently and thoroughly on the outcomes of their endeavors (see also <em>transparency</em>) and suggest adjustments to collective action based on assessments of these outcomes. In this way, open organizations are fundamentally oriented toward continuous engagement and learning.</p>
-
-<p>In open organizations, adaptability looks like:</p>
-
-<ul>
-  <li>Feedback mechanisms are accessible both to members of the organization and to outside members, who can offer suggestions.</li>
-  <li>Feedback mechanisms allow and encourage peers to assist one another without managerial oversight, if necessary.</li>
-  <li>Leaders work to ensure that feedback loops genuinely and materially impact the ways people in the organization operate.</li>
-  <li>Processes for collective problem solving, collaborative decision making, and continuous learning are in place, and the organization rewards both personal and team learning to reinforce a growth mindset.</li>
-  <li>People tend to understand the context for the changes they’re making or experiencing.</li>
-  <li>People are not afraid to make mistakes, yet projects and teams are comfortable adapting their pre-existing work to project-specific contexts in order to avoid repeated failures.</li>
-</ul>
-
-<h3 id="collaboration">Collaboration</h3>
-<p>Work in an open organization involves multiple parties by default. Participants believe that joint work produces better (more effective, more sustainable) outcomes, and specifically seek to involve others in their efforts (see also <em>inclusivity</em>). Products of work in open organizations afford additional enhancement and revision, even by those not affiliated with the organization (see also, <em>adaptability</em>).</p>
-
-<p>In open organizations, collaboration looks like:</p>
-
-<ul>
-  <li>People tend to believe that working together produces better results.</li>
-  <li>People tend to begin work collaboratively, rather than “add collaboration” after they’ve each completed individual components of work.</li>
-  <li>People tend to engage partners outside their immediate teams when undertaking new projects.</li>
-  <li>Work produced collaboratively is easily available internally for others to build upon.</li>
-  <li>Work produced collaboratively is available externally for creators outside the organization to use in potentially unforeseen ways.</li>
-  <li>People can discover, provide feedback on, and join work in progress easily—and are welcomed to do so.</li>
-</ul>
-
-<h3 id="community">Community</h3>
-<p>Open organizations are communal. Shared values and purpose guide participation in open organizations, and these values—more so than arbitrary geographical locations or hierarchical positions—help determine the organization’s boundaries and conditions of participation. Core values are clear, but also subject to continual revision and critique, and are instrumental in defining conditions for an organization’s success or failure (see also <em>adaptability</em>).</p>
-
-<p>In open organizations, community looks like:</p>
-
-<ul>
-  <li>Shared values and principles that inform decision-making and assessment processes are clear and obvious to members.</li>
-  <li>People feel equipped and empowered to make meaningful contributions to collaborative work.</li>
-  <li>Leaders mentor others and demonstrate strong accountability to the group by modeling shared values and principles.</li>
-  <li>People have a common language and work together to ensure that ideas do not get “lost in translation,” and they are comfortable sharing their knowledge and stories to further the group’s work.</li>
-</ul>
-
-<h2 id="revision-history">Revision History</h2>
-<p>Version 2.0<br />
-Updated April 2017<br />
-The Open Organization Ambassadors<br />
-<a href="https://github.com/open-organization/open-org-definition">Suggest a revision</a></p>
-
-<h2 id="more-resources">More Resources</h2>
-
-<h3 id="additional-formats">Additional Formats</h3>
+<h3 id="illustrated-guide">Illustrated guide</h3>
 <p>A full-color, illustrated version of The Open Organization Definition is available <a href="https://opensource.com/open-organization/resources/open-org-definition-book">at Opensource.com</a>.</p>
 
-<h3 id="maturity-model">Maturity Model</h3>
-<p>How open is your organization? The Open Organization Maturity Model can help you assess your team, department, and organization. <a href="https://www.ready-to-innovate.com/openorg/">Use the tool</a> and <a href="https://github.com/open-organization/open-org-maturity-model">download the text</a>.</p>
+<h2 id="the-open-leadership-definition">The Open Leadership Definition</h2>
+<p>Open organizations need open leaders, people who let open principles guide their approach to crafting organizational vision, setting organizational strategy, and reinforcing organizational culture. But what really makes open leadership different from other styles of leadership? The Open Leadership Definition describes the mindsets and behaviors that distinguish open leaders from other types of leaders—what these leaders <em>think</em> and <em>do</em> to create more open organizations every day. It’s an accessible, practical guide to becoming the type of leader capable of motivating, assisting, and empowering others to build organizations capable of great things.</p>
+
+<p><strong>Coming soon!</strong></p>
 
 
     <footer class="site-footer">
@@ -171,7 +131,7 @@ The Open Organization Ambassadors<br />
 
 <span class="site-footer-credits">
 <img src="https://theopenorganization.org/assets/images/red_hat_endorsement_black.png" alt="Supported by Red Hat"><br />
-© 2015‒2020 <a href="http://redhat.com/">Red Hat, Inc.</a> and others. Written materials licensed via Creative Commons <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="Attribution-ShareAlike 4.0 International">Attribution-ShareAlike 4.0 International</a> license.
+© 2015‒2021 <a href="http://redhat.com/">Red Hat, Inc.</a> and others. Written materials licensed via Creative Commons <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="Attribution-ShareAlike 4.0 International">Attribution-ShareAlike 4.0 International</a> license.
 </span>
 
 

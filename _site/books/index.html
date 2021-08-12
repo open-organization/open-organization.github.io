@@ -5,18 +5,18 @@
     
     <meta charset="UTF-8">
 
-<!-- Begin Jekyll SEO tag v2.6.1 -->
+<!-- Begin Jekyll SEO tag v2.7.1 -->
 <title>Book Series | The Open Organization</title>
-<meta name="generator" content="Jekyll v4.1.1" />
+<meta name="generator" content="Jekyll v4.2.0" />
 <meta property="og:title" content="Book Series" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Resources for building open organizations" />
 <meta property="og:description" content="Resources for building open organizations" />
-<link rel="canonical" href="http://localhost:4000/books/" />
-<meta property="og:url" content="http://localhost:4000/books/" />
 <meta property="og:site_name" content="The Open Organization" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Book Series" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/books/","headline":"Book Series","description":"Resources for building open organizations","@type":"WebPage","@context":"https://schema.org"}</script>
+{"headline":"Book Series","@type":"WebPage","url":"/books/","description":"Resources for building open organizations","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -36,15 +36,69 @@
 -->
 	<a href="https://theopenorganization.org" title="Home"><img src="https://theopenorganization.org/assets/images/openorg_logo_standard.png" alt="The Open Organization"></a>
 	<br />
-	<h2 class="project-tagline">Resources for building open organizations</h2>	
-	<a href="https://theopenorganization.org/about" title="About" class="btn">About</a>
-	<a href="https://theopenorganization.org/definition" title="Definition" class="btn">Definition</a>
-	<a href="https://theopenorganization.org/books" title="Books" class="btn">Books</a>
-	<a href="https://opensource.com/open-organization" title="Articles" class="btn" target="_blank">Articles</a>
-	<a href="https://www.theopenorganization.community" title="Community" class="btn" target="_blank">Community</a>	
+	<h2 class="project-tagline">Resources for building open organizations</h2>
+	<a id="togglemenu" onclick="document.body.classList.toggle('menuopen');">Menu<span><span></span><span></span><span></span></span></a>
+
+<style>
+@keyframes span1 {
+    0%   { top: 0%; transform-origin: 50% 50%;}
+    50%  { top: 50%; transform: rotate(0deg) translateY(-50%);}
+    100% { top: 50%; transform: rotate(45deg) translateY(-50%);}
+}
+@keyframes span2 {
+    0%   {opacity: 1;}
+    45%  {opacity: 1;}
+    65%  {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes span3 {
+    0%   { bottom: 0%; transform-origin: 50% 50%;}
+    45%  { bottom: 50%; transform: rotate(0deg) translateY(50%);}
+    100% { bottom: 50%; transform: rotate(-45deg) translateY(50%);}
+}
+
+#togglemenu {display: none;}
+@media only screen and (max-width: 55rem) {
+    #menu {display: none;}
+    .menuopen #menu {display: block;}
+    #togglemenu {display: block; cursor: pointer;}
+    
+}
+#togglemenu > span {display: inline-block; margin-left: 0.4rem; width: 1.1rem; height: 0.75rem; position: relative; vertical-align: middle; position: relative; bottom: 1px;}
+#togglemenu > span > span {display: block; position: absolute; width: 100%; height: 2px; background: #999;}
+#togglemenu > span > span:nth-child(1) {top: 0; transform-origin: 50% 0%;}
+#togglemenu > span > span:nth-child(2) {top: 50%; margin-top: -1px;}
+#togglemenu > span > span:nth-child(3) {bottom: 0; transform-origin: 50% 100%;}
+
+.menuopen #togglemenu > span > span:nth-child(1) {
+    animation: span1 0.25s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+.menuopen #togglemenu > span > span:nth-child(2) {
+    animation: span2 0.25s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;  
+}
+.menuopen #togglemenu > span > span:nth-child(3) {
+    animation: span3 0.25s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards; 
+}
+</style>
+
+	<div id="menu">	
+		<a href="https://theopenorganization.org/about" title="About" class="btn">About</a>
+			<a href="https://theopenorganization.org/definition" title="Definition" class="btn">Definitions</a>
+			<a href="https://theopenorganization.org/books" title="Books" class="btn">Books</a>
+			<a href="https://opensource.com/open-organization" title="Articles" class="btn" target="_blank">Articles</a>
+			<a href="http://theopenorganization.tv" title="Videos" class="btn" target="_blank">Videos</a>
+			<a href="http://theopenorganization.community" title="Community" class="btn" target="_blank">Community</a>
+    </div>	
 	<br />
 	<a href="https://github.com/open-organization" title="GitHub" target="_blank"><img src="https://theopenorganization.org/assets/images/github_social_black.png" alt="On GitHub"></a>
 	<a href="https://twitter.com/openorgproject" title="Twitter" target="_blank"><img src="https://theopenorganization.org/assets/images/twitter_social_black.png" alt="On Twitter"></a>
+	<a href="https://linkedin.com/company/the-open-organization" title="LinkedIn" target="_blank"><img src="https://theopenorganization.org/assets/images/linkedin_social_black.png" alt="On LinkedIn"></a>
 	<a href="https://opensource.com/taxonomy/term/14761/feed" title="RSS"><img src="https://theopenorganization.org/assets/images/rss_social_black.png" alt="RSS"></a>
 	</header>
 
@@ -73,10 +127,10 @@
 
 <h2 id="guides">Guides</h2>
 
-<h3 id="human-at-a-distance-an-open-organization-guide-to-distributed-teamwork">Human at a Distance An Open Organization Guide to Distributed Teamwork</h3>
-<p><a href="https://bit.ly/2WpDZhO"><img src="/assets/images/human-distance-sm.png#book-cover" alt="Human at a Distance" /></a></p>
+<h3 id="human-at-a-distance-an-open-organization-guide-to-distributed-teamwork">Human at a Distance: An Open Organization Guide to Distributed Teamwork</h3>
+<p><a href="https://github.com/open-organization/open-org-distributed-work-guide/releases/download/1.0/open_org_guide_distributed_teamwork_1_0.pdf"><img src="/assets/images/human_distance_cover.png#book-cover" alt="Human at a Distance" /></a></p>
 
-<p>Featuring chapters from contributors in various organizations across the globe, <a href="https://bit.ly/2WpDZhO">Human at a Distance</a> explores how open principles and practices can help organizations foster collaboration, increase transparency, enhance accountability, and establish a greater degree of trust and camaraderie while their members are geographically separated. Like all other books in the Open Organization series, Human at a Distance is licensed with a Creative Commons license that permits sharing, translation, and remix. The community invites additional contributions to the book, which will receive its first planned update in early 2021.</p>
+<p><a href="https://bit.ly/2WpDZhO"><em>Human at a Distance</em></a> explores how open principles and practices can help organizations foster collaboration, increase transparency, enhance accountability, and establish a greater degree of trust while their members are geographically separated. It offers distributed teams (those working remotely for the first time, as well as those with extensive remote-work experience) a guide to building dynamic and inclusive organizations—no matter where their members happen to be.</p>
 
 <h3 id="the-open-organization-guide-to-it-culture-change">The Open Organization Guide to IT Culture Change</h3>
 <p><a href="https://opensource.com/open-organization/resources/culture-change"><img src="/assets/images/openorg_itculture_cover.png#book-cover" alt="Open org Guide to IT Culture Change" /></a></p>
@@ -84,11 +138,9 @@
 <p>In <a href="https://opensource.com/open-organization/resources/culture-change"><em>The Open Organization Guide to IT Culture Change</em></a>, more than 25 contributors from open communities, companies, and projects offer hard-won lessons and practical advice for creating an open IT department—one that can deliver better, faster results and unparalleled business value.</p>
 
 <h3 id="the-open-organization-guide-for-educators">The Open Organization Guide for Educators</h3>
-<p><a href="https://opensource.com/open-organization/resources/educators-guide"><img src="/assets/images/openorg_educators_cover.png#book-cover" alt="Open org Guide for Educators" /></a>
-What if we could build classrooms, departments, or entire educational institutions on the same values that power open source communities? What if we let open organization principles guide our experiments in transforming education? How might that change the ways educators prepare students for life in an increasingly open world? In <a href="https://opensource.com/open-organization/resources/educators-guide"><em>The Open Organization Guide for Educators</em></a>, more than two dozen advocates for open education explore these important questions.</p>
+<p><a href="https://opensource.com/open-organization/resources/educators-guide"><img src="/assets/images/openorg_educators_cover.png#book-cover" alt="Open org Guide for Educators" /></a></p>
 
-<h3 id="the-open-organization-guide-to-distributed-teamwork">The Open Organization Guide to Distributed Teamwork</h3>
-<p><strong>Now in development!</strong> Distributed organizations are more common than they’ve ever been. And the challenges to working together at a distance have never been more pressing. Across all industries and geographies, teams are rethinking how they operate—and questioning fundamental assumptions about the nature of work. Open organizational principles—like transparency, inclusivity, adaptability, collaboration, and community—can catalyze high-performing teams anywhere, even (perhaps especially) when their members are far apart. <em>The Open Organization Guide to Distributed Teamwork</em> offers remote, distributed teams guide to the open principles and practices essential for building dynamic, inclusive, high-performing teams—no matter where their members happen to be. <a href="https://github.com/open-organization/open-org-distributed-work-guide">Contribute now!</a></p>
+<p>What if we could build classrooms, departments, or entire educational institutions on the same values that power open source communities? What if we let open organization principles guide our experiments in transforming education? How might that change the ways educators prepare students for life in an increasingly open world? In <a href="https://opensource.com/open-organization/resources/educators-guide"><em>The Open Organization Guide for Educators</em></a>, more than two dozen advocates for open education explore these important questions.</p>
 
 <h2 id="license">License</h2>
 <p>Volumes in the <em>Open Organization</em> book series are licensed via Creative Commons <a href="https://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike 4.0 International</a> license.</p>
@@ -103,7 +155,7 @@ What if we could build classrooms, departments, or entire educational institutio
 
 <span class="site-footer-credits">
 <img src="https://theopenorganization.org/assets/images/red_hat_endorsement_black.png" alt="Supported by Red Hat"><br />
-© 2015‒2020 <a href="http://redhat.com/">Red Hat, Inc.</a> and others. Written materials licensed via Creative Commons <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="Attribution-ShareAlike 4.0 International">Attribution-ShareAlike 4.0 International</a> license.
+© 2015‒2021 <a href="http://redhat.com/">Red Hat, Inc.</a> and others. Written materials licensed via Creative Commons <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="Attribution-ShareAlike 4.0 International">Attribution-ShareAlike 4.0 International</a> license.
 </span>
 
 
