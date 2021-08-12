@@ -12,10 +12,10 @@ Anyone can help improve them. Join the [Open Organization community on GitHub](h
 ## The Open Organization Definition
 Forward-thinking organizations are embracing open principles in order to become more agile, innovative, and engaged. [The Open Organization Definition](https://theopenorganization.org/definition/open-organization-definition) outlines five characteristics of open organizations—transparency, inclusivity, adaptability, collaboration, and community—and explains how they can serve as a foundation for new organizational behaviors, systems, and structures.
 
-## Maturity model
+### Maturity model
 How open is your organization? The Open Organization Maturity Model can help you assess your team, department, and organization. [Use the tool](https://www.ready-to-innovate.com/openorg/) and [download the text](https://github.com/open-organization/open-org-maturity-model).
 
-## Illustrated guide
+### Illustrated guide
 A full-color, illustrated version of The Open Organization Definition is available [at Opensource.com](https://opensource.com/open-organization/resources/open-org-definition-book).
 
 ## The Open Leadership Definition
