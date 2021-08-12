@@ -414,4 +414,6 @@ img[src*="book-cover"] { width: 35%; float: right; margin-left: 5%; }
 
 a { color: #753fb2; }
 
+@media (max-width: 750px) { #menu .btn { width: 30%; } }
+
 /*# sourceMappingURL=style.css.map */
