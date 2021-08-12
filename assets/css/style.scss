@@ -50,9 +50,14 @@
  border-radius:0.3rem;
  transition:color 0.3s, background-color 0.3s, border-color 0.3s;
 	@include small{
-		width: 30%;
+		width: 35%;
 		padding: .55rem;
 		margin: .25rem;
+	}
+	@include medium{
+		width: 40%;
+		padding: .65rem;
+		margin: .95rem;
 	}
 	}
 .btn:hover {
