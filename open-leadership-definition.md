@@ -6,7 +6,7 @@ permalink: /definition/open-leadership-definition/
 
 # The Open Leadership Definition
 
-## Preamble
+## <a name="preamble"></a>Preamble
 Every organization needs leaders. But a leader needn't be someone endowed with formal authority, whether by virtue of position in the organization's hierarchy or extensive tenure with the organization. Fundamentally, a leader is anyone in a group, team, department, or enterprise who performs one or more critical leadership functions, such as:
 
 - Establishing a compelling vision and strategic direction for the organization
@@ -23,8 +23,8 @@ Open organizations require open leaders and let the [open organization principle
 - Reflective, because they readily share their perspectives on the context of their work and are attuned to their shortcomings and limitations
 - Flexible and risk-tolerant, because they feel empowered and safe to change organizational systems and processes to solve problems the ways they feel are best
 
-## Characteristics of Open Leadership
-Open leadership is a mindset and set of behaviors that anyone can learn and practice. Open Leaders think and act in service to another person, group, team, or enterprise attempting to accomplish something together. They are people with character, who give agency to those around them. In this way, their role as leaders is not permanent or predestined; it is evolving and fluid given the task at hand. Open leaders are especially adept at building organizations that embody [the character of an open organization](https://theopenorganization.org/definition/)—transparency, inclusivity, adaptability, collaboration, and community—and operate according to these characteristics. And because these principles are interconnected, open leaders espouse all of them.
+## <a name="characteristics"></a>Characteristics of Open Leadership
+Open leadership is a mindset and set of behaviors that anyone can learn and practice. Open Leaders think and act in service to another person, group, team, or enterprise attempting to accomplish something together. They are people with character, who give agency to those around them. In this way, their role as leaders is not permanent or predestined; it is evolving and fluid given the task at hand. Open leaders are especially adept at building organizations that embody [the character of an open organization](https://theopenorganization.org/definition/)—[transparency](#transparency), [inclusivity](#inclusivity), [adaptability](#adaptability), [collaboration](#collaboration), and [community](#community)—and operate according to these characteristics. And because these principles are interconnected, open leaders espouse all of them.
 
 ### <a name="transparency"></a>Transparency
 Open leaders encourage clear, candid interactions among team members, between teams, and across their organizations. Like other leaders, they share the results of their work and the outcomes of their decisions. But open leaders often do more than this. They share the rationale for their work, their motivations for undertaking it, the purposes it serves, and the lines of power and authority that have influenced it. They indicate the parties involved in making a decision—and whenever possible, they invite others to join the decision-making processes (see also *collaboration*). They explain the criteria stakeholders used to guide a decision. They explain why certain options weren't chosen or adopted, why particular avenues weren't pursued. And when they communicate the results of their work or the outcomes of their decisions with others, they consider external parties, stakeholders, and communities' needs the same way they consider their teammates'. In short, they make all aspects of their work more transparent and accessible to others—even though this often means the work requires more time, involves more discussion among more people, and leads to more questions along the way.
@@ -121,7 +121,7 @@ Open leaders understand that organizations become open when they become communit
 - Act as facilitators, moderators, or coaches for others in the community, being neither too authoritarian and dictatorial nor indifferent and disengaged.
 - Ensure that conversations and decisions balance individual needs with collective desires and expectations (including their own).
 
-## Colophon
+## <a name="colophon"></a>Colophon
 This document builds on several openly licensed resources, including the [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) and the [Open Leadership Framework](https://github.com/mozilla/open-leadership-framework) from Mozilla. We are indebted to these projects.
 
 ## Revision History
