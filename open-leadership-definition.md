@@ -7,7 +7,9 @@ permalink: /definition/open-leadership-definition/
 # The Open Leadership Definition
 
 ## <a name="preamble"></a>Preamble
-Every organization needs leaders. But a leader needn't be someone endowed with formal authority, whether by virtue of position in the organization's hierarchy or extensive tenure with the organization. Fundamentally, a leader is anyone in a group, team, department, or enterprise who performs one or more critical leadership functions, such as:
+Every organization needs leaders. But a leader needn't be someone endowed with formal authority, whether by virtue of position in the organization's hierarchy or extensive tenure with the organization.
+
+Fundamentally, a leader is anyone in a group, team, department, or enterprise who performs one or more critical leadership functions, such as:
 
 - Establishing a compelling vision and strategic direction for the organization
 - Clarifying the values and principles that guide the organization and inform its identity
@@ -15,7 +17,9 @@ Every organization needs leaders. But a leader needn't be someone endowed with f
 - Maintaining a sense of positive organizational momentum in the face of potential setbacks and critical decisions
 - Mentoring or otherwise influencing the personal and professional development of everyone in the organization
 
-Open organizations require open leaders and let the [open organization principles](https://theopenorganization.org/definition/) guide their approach. Simply put, open leaders help build open organizations and establish conditions for others to thrive in those organizations. When they do this, they create organizations full of people who are more:
+Open organizations require open leaders and let the [open organization principles](https://theopenorganization.org/definition/) guide their approach. Simply put, open leaders help build open organizations and establish conditions for others to thrive in those organizations.
+
+When they do this, they create organizations full of people who are more:
 
 - Engaged, because they feel more invested in the organization's success
 - Accountable, because responsibilities and consequences are undeniably clear
