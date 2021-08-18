@@ -17,11 +17,11 @@ But openness is fluid. Openness is multifaceted. Openness is contested.
 
 While every organization is different—and therefore every example of an open organization is unique—we believe these five characteristics serve as the basic conditions for openness in most contexts:
 
-- Transparency
-- Inclusivity
-- Adaptability
-- Collaboration
-- Community
+- [Transparency](#transparency)
+- [Inclusivity](#inclusivity)
+- [Adaptability](#adaptability)
+- [Collaboration](#collaboration)
+- [Community](#community)
 
 ## <a name="characteristics"></a>Characteristics of an Open Organization
 Open organizations take many shapes. Their sizes, compositions, and missions vary. But the following five characteristics are the hallmarks of any open organization.
