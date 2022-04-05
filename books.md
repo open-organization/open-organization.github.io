@@ -13,6 +13,9 @@ Open Perspectives is a series of short, timely publications featuring voices fro
 ### Opening Up to Leadership Talent
 In [*Opening Up to Leadership Talent*](https://github.com/open-organization/open-perspectives/raw/main/opening-up-to-leadership-talent/opening-up-to-leadership-talent.pdf), organizational transformation, leadership guide, and Open Organization Ambassador Jos Groen explains how open principles can serve as the foundation for talent management—particularly in hybrid organizations transitioning from conventional organizational structures and cultures to open ones.
 
+### Opening up social impact-focused organizations
+In [*Opening Up Social Impact-Focused Organizations*](https://raw.githubusercontent.com/open-organization/open-perspectives/main/opening-up-social-impact-focused-organizations/opening-up-social-impact-focused-organizations.pdf), authors [Laura Hilliger](https://laurahilliger.com) and [Heather Leson](http://textontechs.com/) pool their years of experience in non-profit, humanitarian, and social impact-focused organizations, offering guidance for leaders working to transform their organizations with open principles in mind. With advice that's both refreshingly realistic and eminently practical, Laura and Heather explain how working openly can help advocates for social change build coalitions, create projects that respect communities' values, and architect durable movements with far-reaching impacts.
+
 ## Guides
 Guides are collaboratively written, multi-author works collecting numerous voices in conversation about a single topic.
 
